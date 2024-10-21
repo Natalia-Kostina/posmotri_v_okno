@@ -8,20 +8,6 @@ html {
   block-size: 100%;
 }
 
-.page {
-  display: flex;
-  align-items: center;
-  inline-size: 1200px;
-  block-size: 100%;
-  margin: auto;
-  color: #fff;
-  font-family: 'Fira Sans Condensed', sans-serif;
-  font-size: 18px;
-  background-color: #1b1919;
-  max-height: 800px;
-  padding: 133px 30px;
-}
-
 h1,
 h2,
 h3,
@@ -45,6 +31,20 @@ ol {
 
 video {
   width: 100%;
+}
+
+.page {
+  display: flex;
+  align-items: center;
+  inline-size: 1200px;
+  block-size: 100%;
+  margin: auto;
+  color: #fff;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-size: 18px;
+  background-color: #1b1919;
+  max-height: 800px;
+  padding: 133px 30px;
 }
 
 .content {
