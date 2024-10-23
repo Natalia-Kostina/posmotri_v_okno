@@ -295,6 +295,10 @@ video {
   block-size: 103px;
 }
 
+.content__card-link_current {
+  background-color: #545050;
+}
+
 .more-button {
   min-width: 400px;
   min-height: 35px;
